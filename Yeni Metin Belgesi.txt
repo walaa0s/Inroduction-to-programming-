@@ -1,4 +1,3 @@
-
 C:\users\walaa>node
 > 2+2
 4
@@ -31,6 +30,6 @@ ReferanceError : buyukBeden is not defined
 > buyukBeden = beden + 10
 58
 > buyukBeden 
-60
+58
 >beden 
 48
