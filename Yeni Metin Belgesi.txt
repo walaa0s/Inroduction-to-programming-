@@ -1,0 +1,36 @@
+
+C:\users\walaa>node
+> 2+2
+4
+> 2/3
+0.6666666666666
+ walaa
+ reference errror : walaa is not defined
+ > walaa = "Walaa ENGINEER"
+ "Walaa ENGINEER"
+ > walaa
+ "Walaa ENGINEER"
+ >true
+ "true"
+ > walaa = "güzel kız"
+"güzel kız"
+> walaa 
+"güzel kız"
+> beden = 48 
+48
+> beden + 2
+50
+> beden "48"
+'48'
+> beden + 2
+'482'
+beden = 48
+48
+> buyukBeden
+ReferanceError : buyukBeden is not defined
+> buyukBeden = beden + 10
+58
+> buyukBeden 
+60
+>beden 
+48
