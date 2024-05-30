@@ -1,0 +1,19 @@
+C:\Users\EngWalaa>node
+> lipstik
+ReferanceError: lipstik is not defined
+> lipstik = ruj
+ReferanceError: ruj is not defined
+> lipstik = 'ruj'
+'Ruj'
+> nailPoslish ='oje'
+'Oje'
+> makeupMenu = liptick + nailPolish
+'RujOje'
+> makeupMenu ='Menümüz : ' +lipstick + nailPolish
+'Menümüz: RujOje'
+> makeupMenu ='Menümüz : ' +lipstick +' '+ nailPolish
+'Menümüz: Ruj Oje'
+> fiyat= 20
+20
+> makeupMenu = 'Menümüz : ' + Ruj +' '+ Oje+ ',Fiyat : '+fiyat
+'Menümüz : Ruj Oje, Fiyat : 20'
